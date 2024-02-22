@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alicio Valle</h1>
 <h3 align="center">A Solutions Architect @ Bonterra and Full Stack Developer from Raleigh, NC</h3>
+<h5 align="center">📫 Freelance Inquiries: alicio.valle242@gmail.com</h5>
 
 <p align="center"> <a href="https://twitter.com/vallealicio" target="blank"><img src="https://img.shields.io/twitter/follow/vallealicio?logo=twitter&style=for-the-badge" alt="vallealicio" /></a> </p>
 
-<span align='center'>📫 Freelance Inquiries: alicio.valle242@gmail.com</span>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
