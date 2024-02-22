@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alicio Valle</h1>
-<h3 align="center">A Solutions Architect @ Bonterra and frontend developer from Raleigh, NC</h3>
+<h3 align="center">A Solutions Architect @ Bonterra and Full Stack Developer from Raleigh, NC</h3>
 
 <p align="center"> <a href="https://twitter.com/vallealicio" target="blank"><img src="https://img.shields.io/twitter/follow/vallealicio?logo=twitter&style=for-the-badge" alt="vallealicio" /></a> </p>
 
-- 🔭 I’m currently working on **A Web Page for a local business**
-
-- 🌱 I’m currently learning **React, AWS Cloud, and C#**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [webdevbyav.com](webdevbyav.com)
-
-- 💬 Ask me about **JavaScript, CSS, and Sass**
-
-- 📫 How to reach me **alicio.valle242@gmail.com**
-
-- ⚡ Fun fact **I spent 5 years as a Social Worker before getting into tech**
+- 📫 Freelance Inquiries: **alicio.valle242@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
