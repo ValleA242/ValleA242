@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/vallealicio" target="blank"><img src="https://img.shields.io/twitter/follow/vallealicio?logo=twitter&style=for-the-badge" alt="vallealicio" /></a> </p>
 
-- 📫 Freelance Inquiries: **alicio.valle242@gmail.com**
+<span align='center'>📫 Freelance Inquiries: **alicio.valle242@gmail.com</span>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
